@@ -5,7 +5,7 @@ orbs:
 executors:
   custom-node:
     docker:
-      - image: 'cypress/base:10.22.0'
+      - image: 'cypress/base:14.17.0'
 
 jobs:
   Jest:
